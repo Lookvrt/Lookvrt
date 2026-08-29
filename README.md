@@ -27,8 +27,6 @@
 
 - 💬 Ask me about Frontend basics, Bootstrap layouts, Java, or PostgreSQL queries
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Looks](https://discordapp.com/users/look_vrt) my username!
-
 </div>
 <br>
 
