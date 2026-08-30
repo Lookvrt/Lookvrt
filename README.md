@@ -10,7 +10,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">The error is part of the programming</h2></summary>
+    <summary><h2 style="display: inline-block">Amateur programmer</h2></summary>
   </ul>
 </div>
 <br>
@@ -21,11 +21,11 @@
 
 - 🌱 I’m currently learning Spring Boot, Spring Web, Thymeleaf, and Backend Security (Spring Security & JWT)
 
-- 🗄️ I have solid foundational knowledge in Java and PostgreSQL for database management
+- 🗄️ I have solid foundational knowledge in Java and SQL queries for database management
 
 - 🗺️ My future milestone is to dive into ORM (Hibernate/JPA), Spring Validator, and REST APIs
 
-- 💬 Ask me about Frontend basics, Bootstrap layouts, Java, or PostgreSQL queries
+- 💬 Ask me about Frontend basics, Bootstrap layouts, Java, or SQL queries
 
 </div>
 <br>
